@@ -2,6 +2,7 @@
 
 Welcome to the repository for our Classroom Occupancy Monitoring and Behavior Analysis System.
 This AI-driven project focuses on enhancing safety, improving learning environments, and optimizing resource utilization within educational institutions using cutting-edge computer vision technologies.
+
 This repository contains all source codes, reports, documentation, and additional resources developed over the course of these two projects.
 
 
