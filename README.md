@@ -51,8 +51,8 @@ Location coordinates for detected illegal activities
 Occupancy reports
 
 ## ✍️ Authors
-Alanood Alharmoodi       100053854
-Rodha Alhosani           100058376
-Shaikha Alhammadi        100058710
+Alanood Alharmoodi       100053854 ␣␣
+Rodha Alhosani           100058376 ␣␣
+Shaikha Alhammadi        100058710 ␣␣
 Yasmine Benkhelifa       100059531
 
