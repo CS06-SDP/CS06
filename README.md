@@ -9,9 +9,13 @@ This repository contains all source codes, reports, documentation, and additiona
 
 /SDP I
     - Object Detection System (mug, cup, human, restricted area detection)
+
+    
 /SDP II
     - Behavior Analysis System (eating, drinking, phone calls, texting, object detection)
+    
     - Cheating Detection System (cheating class, phone calls, texting, object detection)
+    
     - Attendance Monitoring System (student occupancy and logging)
 
 ## 📜 Project Overview
