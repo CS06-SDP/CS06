@@ -23,58 +23,58 @@ This repository contains all source codes, reports, documentation, and additiona
 
 This system is built in two phases:
 ### SDP I (Phase 1):
-Focused on Object Detection, where the system detects:
+- Focused on Object Detection, where the system detects:
 
-Unauthorized objects (cups & mugs) inside labs
+- Unauthorized objects (cups & mugs) inside labs
 
-Unauthorized access to restricted (mainframe) areas
+- Unauthorized access to restricted (mainframe) areas
 
 ### SDP II (Phase 2):
-Focused on Behavior Analysis and Occupancy Monitoring, introducing:
+- Focused on Behavior Analysis and Occupancy Monitoring, introducing:
 
-Behavior System: Detects disruptive activities like eating, drinking, texting, and phone calls
+- Behavior System: Detects disruptive activities like eating, drinking, texting, and phone calls
 
-Cheating Detection System: Identifies phone calls, texting during exams, and cheating class behaviors
+- Cheating Detection System: Identifies phone calls, texting during exams, and cheating class behaviors
 
-Attendance System: Tracks the number of students present for attendance 
+- Attendance System: Tracks the number of students present for attendance 
 
 ### Key Features:
-Real-time object and behavior detection using YOLOv8s
+- Real-time object and behavior detection using YOLOv8s
 
-Illegal object and restricted area alerts
+- Illegal object and restricted area alerts
 
-Automated behavior monitoring to minimize manual supervision
+- Automated behavior monitoring to minimize manual supervision
 
-Occupancy tracking for attendance and analytics
+- Occupancy tracking for attendance and analytics
 
-Dashboard for live monitoring, event logs, and location mapping
+- Dashboard for live monitoring, event logs, and location mapping
 
-Email alerts to notify mentors instantly about significant events or policy violations
+- Email alerts to notify mentors instantly about significant events or policy violations
 
 ## ⚙️ Technologies Used
-Python
+- Python
 
-YOLOv8s (You Only Look Once v8 small version - for fast and accurate detections)
+- YOLOv8s (You Only Look Once v8 small version - for fast and accurate detections)
 
-OpenCV (computer vision operations)
+- OpenCV (computer vision operations)
 
-MakeSense.ai (data annotation)
+- MakeSense.ai (data annotation)
 
-TensorFlow/PyTorch (training and fine-tuning models)
+- TensorFlow/PyTorch (training and fine-tuning models)
 
-Flask / Streamlit (for dashboards — if applicable)
+- Flask / Streamlit (for dashboards — if applicable)
 
 ## 📊 Dashboard
 A user-friendly dashboard provides:
-Real-time alerts for detected illegal objects and behaviors
+- Real-time alerts for detected illegal objects and behaviors
 
-Event logging with time stamps for tracking detected incidents
+- Event logging with time stamps for tracking detected incidents
 
-Location coordinates for detected illegal activities within the classroom or restricted areas
+- Location coordinates for detected illegal activities within the classroom or restricted areas
 
-Occupancy reports for tracking student attendance and room usage
+- Occupancy reports for tracking student attendance and room usage
 
-Email alerts to notify administrators or staff about significant events or unauthorized activities
+- Email alerts to notify administrators or staff about significant events or unauthorized activities
 
 
 ## ✍️ Authors
